@@ -5,12 +5,6 @@
   <strong>iOS</strong>, <strong>Android</strong>, and <strong>Flutter</strong> (cross-platform). I specialize in native iOS development using 
   <strong>Swift/SwiftUI</strong>, native Android with <strong>Kotlin</strong>, and scalable app solutions using Flutter.
 </p>
-
-<p>
-  I've worked with startups and SaaS platforms to deliver secure, intuitive apps aligned with business goals. From AI integrations 
-  to publishing on the App Store and Google Play, I provide complete mobile app solutions with clean architecture and modern UI/UX.
-</p>
-
 <p>
   🔗 <a href="https://www.upwork.com/freelancers/~0166ac04411a910b3f?viewMode=1" target="_blank">View My Upwork Profile</a> |
   💼 <a href="https://www.linkedin.com/in/zeshan-musawar/" target="_blank">Connect on LinkedIn</a>
@@ -46,36 +40,13 @@
 </p>
 <hr>
 
-<h2>📦 Elphatap – #1 Digital Business Card App</h2>
-<ul>
-  <li><strong>Type:</strong> Smart Networking + Business Utility (iOS, Android, AppGallery)</li>
-  <li><strong>Role:</strong> Mobile App Development (Multi-platform)</li>
-  <li>Built a modern, scalable app that helps users network smarter with NFC-enabled digital business cards and profile management tools.</li>
-</ul>
-
+<h2>📦 Elphatap</h3>
+<p>#1 digital business card app with NFC, CRM integration, and lead capture.</p>
 <p>
-  Welcome to <strong>Elphatap</strong> — the #1 digital business card app. With just one tap, users can share contact info, social media profiles, and more. The other person doesn't even need the app!
-</p>
-
-<p><strong>Key Features:</strong></p>
-<ul>
-  <li>🔄 Instantly share your contact and social links with a tap</li>
-  <li>⚙️ Customize your profile for personal or professional use</li>
-  <li>📲 Scan and activate your ElphaTap smart product</li>
-  <li>🧾 Manage multiple accounts and business profiles</li>
-  <li>📊 Access detailed analytics to monitor your activity</li>
-  <li>📈 Lead generation tools for capturing contact info</li>
-  <li>🔍 Find service providers, creators, and investors</li>
-  <li>🔐 Strong focus on user privacy and data security</li>
-  <li>🔗 Get a personalized link and QR code</li>
-  <li>🤝 CRM integrations for managing leads and networks</li>
-</ul>
-
-<p>
-  🌐 <a href="https://elphatap.com/?srsltid=AfmBOoqRETVr76iCkAoBH0I7dKLtiNGNT2zQbeJYja_Pxp10z3B64PGW" target="_blank">Website</a> |
+  🌐 <a href="https://elphatap.com" target="_blank">Website</a> |
   <a href="https://apps.apple.com/ae/app/elphatap/id6445953718" target="_blank"> App Store</a> |
   <a href="https://play.google.com/store/apps/details?id=com.app.elphatap" target="_blank">▶ Play Store</a> |
-  <a href="https://appgallery.huawei.com/app/C108686347" target="_blank">🌏 Huawei AppGallery</a>
+  <a href="https://appgallery.huawei.com/app/C108686347" target="_blank">🌏 AppGallery</a>
 </p>
 
 <hr>
@@ -85,19 +56,6 @@
   <li><strong>Type:</strong> Lifestyle & Dating (iOS)</li>
   <li><strong>Role:</strong> iOS App Development</li>
   <li>Developed a user-friendly app to help couples explore unique dating activities and experiences across Singapore.</li>
-</ul>
-
-<p>
-  <strong>Uoowoo</strong> is Singapore’s first dating activities app, designed especially for couples—whether you're dating, married, or just getting to know each other.
-</p>
-
-<p><strong>Key Features:</strong></p>
-<ul>
-  <li>❤️ Discover curated date ideas, from adventure to cozy dining</li>
-  <li>📍 Instantly access all the essential details for each activity</li>
-  <li>🔗 Tap "Book Now" to quickly reserve experiences via partner sites</li>
-  <li>📆 Perfect for first dates, anniversaries, or spontaneous outings</li>
-  <li>🎯 Simplifies date planning and maximizes fun and connection</li>
 </ul>
 
 <p>
