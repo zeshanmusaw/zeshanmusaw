@@ -76,3 +76,31 @@
   <a href="https://appgallery.huawei.com/app/C108686347" target="_blank">🌏 Huawei AppGallery</a>
 </p>
 
+<hr>
+
+<h2>💞 Uoowoo – Discover Fun & Memorable Dates</h2>
+<ul>
+  <li><strong>Type:</strong> Lifestyle & Dating (iOS)</li>
+  <li><strong>Role:</strong> iOS App Development</li>
+  <li>Developed a user-friendly app to help couples explore unique dating activities and experiences across Singapore.</li>
+</ul>
+
+<p>
+  <strong>Uoowoo</strong> is Singapore’s first dating activities app, designed especially for couples—whether you're dating, married, or just getting to know each other.
+</p>
+
+<p><strong>Key Features:</strong></p>
+<ul>
+  <li>❤️ Discover curated date ideas, from adventure to cozy dining</li>
+  <li>📍 Instantly access all the essential details for each activity</li>
+  <li>🔗 Tap "Book Now" to quickly reserve experiences via partner sites</li>
+  <li>📆 Perfect for first dates, anniversaries, or spontaneous outings</li>
+  <li>🎯 Simplifies date planning and maximizes fun and connection</li>
+</ul>
+
+<p>
+  🌐 <a href="https://www.uoowoo.co/" target="_blank">Website</a> |
+  <a href="https://apps.apple.com/sg/app/uoowoo-date-ideas-activity/id6740205538" target="_blank"> App Store</a>
+</p>
+
+
