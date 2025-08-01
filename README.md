@@ -42,3 +42,15 @@
   <a href="https://play.google.com/store/apps/details?id=com.noota_react_native" target="_blank">▶ Play Store</a> |
   <a href="https://apps.apple.com/fr/app/noota-call-voice-to-text/id6742792493?l=en-GB" target="_blank"> App Store</a>
 </p>
+<h2>📦 Elphatap – Smart Delivery & Concierge App</h2>
+<ul>
+  <li><strong>Type:</strong> Service + Marketplace (iOS, Android, AppGallery)</li>
+  <li><strong>Role:</strong> Mobile App Development (Multi-platform)</li>
+  <li>Built a modern and scalable app for smart delivery, bookings, and concierge services with multi-platform support.</li>
+</ul>
+<p>
+  🌐 <a href="https://elphatap.com/?srsltid=AfmBOoqRETVr76iCkAoBH0I7dKLtiNGNT2zQbeJYja_Pxp10z3B64PGW" target="_blank">Website</a> |
+  <a href="https://apps.apple.com/ae/app/elphatap/id6445953718" target="_blank"> App Store</a> |
+  <a href="https://play.google.com/store/apps/details?id=com.app.elphatap" target="_blank">▶ Play Store</a> |
+  <a href="https://appgallery.huawei.com/app/C108686347" target="_blank">🌏 Huawei AppGallery</a>
+</p>
