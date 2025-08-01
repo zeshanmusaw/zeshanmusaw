@@ -20,12 +20,13 @@
 <h2>✅ easyConsent – Family Consent App</h2>
 <ul>
   <li><strong>Type:</strong> SaaS + Native iOS</li>
-  <li><strong>Role:</strong> Native iOS App Development</li>
+  <li><strong>Role:</strong> Native iOS & Android App Development</li>
   <li>Developed a secure platform for managing school, travel, and family consents.</li>
 </ul>
 <p>
   🌐 <a href="https://easyconsent.app" target="_blank">Website</a> |
-  <a href="https://apps.apple.com/us/app/easyconsent/id6479038264" target="_blank"> App Store</a>
+  <a href="https://apps.apple.com/us/app/easyconsent/id6479038264" target="_blank"> App Store</a> |
+  <a href="https://play.google.com/store/apps/details?id=app.easyconsent" target="_blank">▶ Play Store</a>
 </p>
 
 <hr>
