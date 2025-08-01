@@ -12,8 +12,10 @@
 </p>
 
 <p>
-  🔗 <a href="https://www.upwork.com/freelancers/~0166ac04411a910b3f?viewMode=1" target="_blank">View My Upwork Profile</a>
+  🔗 <a href="https://www.upwork.com/freelancers/~0166ac04411a910b3f?viewMode=1" target="_blank">View My Upwork Profile</a> |
+  💼 <a href="https://www.linkedin.com/in/zeshan-musawar/" target="_blank">Connect on LinkedIn</a>
 </p>
+
 
 <hr>
 
