@@ -10,7 +10,6 @@
   💼 <a href="https://www.linkedin.com/in/zeshan-musawar/" target="_blank">Connect on LinkedIn</a>
 </p>
 
-
 <hr>
 
 <h2>✅ easyConsent – Family Consent App</h2>
@@ -40,7 +39,7 @@
 </p>
 <hr>
 
-<h2>📦 Elphatap</h3>
+<h2>📦 Elphatap</h2>
 <p>#1 digital business card app with NFC, CRM integration, and lead capture.</p>
 <p>
   🌐 <a href="https://elphatap.com" target="_blank">Website</a> |
@@ -63,4 +62,15 @@
   <a href="https://apps.apple.com/sg/app/uoowoo-date-ideas-activity/id6740205538" target="_blank"> App Store</a>
 </p>
 
+<hr>
 
+<h2>📖 Mushafi – Quran Application</h2>
+<ul>
+  <li><strong>Type:</strong> Religious & Educational (iOS & Android)</li>
+  <li><strong>Role:</strong> Native App Development</li>
+  <li>Developed a modern Quran application with easy navigation, bookmarking, and a user-friendly reading experience.</li>
+</ul>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.mushafi.quran" target="_blank">▶ Play Store</a> |
+  <a href="https://apps.apple.com/us/app/mushafi-quran-application/id1610135925" target="_blank"> App Store</a>
+</p>
